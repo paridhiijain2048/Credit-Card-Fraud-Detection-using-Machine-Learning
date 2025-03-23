@@ -45,10 +45,10 @@ The following machine learning algorithms were implemented to detect fraudulent 
 5. **Neaural Network MPL** 
 
 Accuracy with each of them is :
-1. **K-Nearest Neighbors (KNN)**  -
-2. **Logistic Regression (LR)**  
-3. **Support Vector Machine (SVM)**  
-4. **Decision Tree (DT)**
+1. **XG Boost **  - 99.2%
+2. **Logistic Regression (LR)**  -97.7%
+3. **Support Vector Machine (SVM)**  -98.9%
+4. **Random Forest** - 99.93%
 5. **Neaural Network MPL** 
 
 
